@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.come/zahedasghar
+        href: https://github.com/zahedasghar
         text: GitHub
     style: docked
     contents:
@@ -21,7 +21,7 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.come/zahedasghar
+      - href: https://github.com/zahedasghar
         text: Forum
 
 format:
