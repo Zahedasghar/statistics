@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: Pakillo/quarto-course-website-template
+        href: https://github.come/zahedasghar
         text: GitHub
     style: docked
     contents:
@@ -21,7 +21,7 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: Pakillo/quarto-course-website-template
+      - href: https://github.come/zahedasghar
         text: Forum
 
 format:
