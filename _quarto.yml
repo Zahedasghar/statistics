@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Data Analytics and Econometrics with R"
   sidebar:
     background: primary
     # logo: "images/logo.png"
